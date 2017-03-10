@@ -3,8 +3,7 @@
  * Class ClientRPCjson
  * @author Lukasz Narloch lukassz111@gmail.com
  * @copyright Lukasz Narloch lukassz111@gmail.com
- * @license DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
- * @license http://www.wtfpl.net/about/
+ * @license WTFPL
  * @since 1.0
  */
 class ClientRPCjson
