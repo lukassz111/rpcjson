@@ -4,5 +4,8 @@
 
     $f = new Func();
     $server = new ServerRPCjson($f);
-    echo $server->foo();
+    $server->setVar("asdas");
+    echo $server->getVar();
+    echo '<hr>';
+    echo serialize($f);
 ?>
